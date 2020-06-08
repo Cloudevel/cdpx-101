@@ -1,0 +1,15 @@
+all:
+  vars:
+     ansible_user: oi
+     ansible_password: 0p3n5y4ck
+  hosts:
+    10.0.2.3
+  children:
+    primergrupo:
+      hosts:
+        10.0.2.4
+        10.0.2.5
+    segundogrupo:
+      hosts:
+        10.0.2.3
+        10.0.2.4
