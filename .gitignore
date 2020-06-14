@@ -103,7 +103,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# directorio de prueba
+# directorios de prueba
 prueba/
 demo/
 experimental/
+contrasena.txt
