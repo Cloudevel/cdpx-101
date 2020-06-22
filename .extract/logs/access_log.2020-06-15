@@ -1,0 +1,5 @@
+10.0.2.2 - - [15/Jun/2020:20:15:37 +0000] GET / HTTP/1.1 404 - http-bio-8080-exec-1 0
+10.0.2.2 - - [15/Jun/2020:20:15:37 +0000] GET /favicon.ico HTTP/1.1 404 - http-bio-8080-exec-2 0
+10.0.2.2 - - [15/Jun/2020:20:15:42 +0000] GET / HTTP/1.1 404 - http-bio-8080-exec-3 0
+10.0.2.2 - - [15/Jun/2020:20:15:54 +0000] GET /install HTTP/1.1 404 - http-bio-8080-exec-4 0
+10.0.2.2 - - [15/Jun/2020:20:16:25 +0000] GET /JavaVulnerableLab/install.jsp HTTP/1.1 500 2425 http-bio-8080-exec-5 725
